@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Sayfa-1" id="Vpmi0FI8uveQga9oaNX9">
-    <mxGraphModel dx="1347" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1664" dy="921" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-95" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="AIBilisim" vertex="1">
-          <mxGeometry height="120" width="140" x="40" y="40" as="geometry" />
+          <mxGeometry height="120" width="140" x="80" y="40" as="geometry" />
         </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-99" parent="CqJAkX1c5FdrGLS3fVsE-95" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Umur Demiray" vertex="1">
           <mxGeometry height="30" width="140" y="30" as="geometry" />
@@ -17,31 +17,31 @@
           <mxGeometry height="30" width="140" y="90" as="geometry" />
         </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-102" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Aksesuar" vertex="1">
-          <mxGeometry height="240" width="140" x="40" y="600" as="geometry" />
+          <mxGeometry height="240" width="160" x="70" y="630" as="geometry" />
         </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-106" parent="CqJAkX1c5FdrGLS3fVsE-102" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Cem Benezra" vertex="1">
-          <mxGeometry height="30" width="140" y="30" as="geometry" />
+          <mxGeometry height="30" width="160" y="30" as="geometry" />
         </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-107" parent="CqJAkX1c5FdrGLS3fVsE-102" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Emin Bozbıyık" vertex="1">
-          <mxGeometry height="30" width="140" y="60" as="geometry" />
+          <mxGeometry height="30" width="160" y="60" as="geometry" />
         </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-108" parent="CqJAkX1c5FdrGLS3fVsE-102" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="AksesuarDepo" vertex="1">
-          <mxGeometry height="30" width="140" y="90" as="geometry" />
+          <mxGeometry height="30" width="160" y="90" as="geometry" />
         </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-109" parent="CqJAkX1c5FdrGLS3fVsE-102" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Nafiye İmren" vertex="1">
-          <mxGeometry height="30" width="140" y="120" as="geometry" />
+          <mxGeometry height="30" width="160" y="120" as="geometry" />
         </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-110" parent="CqJAkX1c5FdrGLS3fVsE-102" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Seda Düz" vertex="1">
-          <mxGeometry height="30" width="140" y="150" as="geometry" />
+          <mxGeometry height="30" width="160" y="150" as="geometry" />
         </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-111" parent="CqJAkX1c5FdrGLS3fVsE-102" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Tuna Gürsoy" vertex="1">
-          <mxGeometry height="30" width="140" y="180" as="geometry" />
+          <mxGeometry height="30" width="160" y="180" as="geometry" />
         </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-112" parent="CqJAkX1c5FdrGLS3fVsE-102" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Havva Taşçı" vertex="1">
-          <mxGeometry height="30" width="140" y="210" as="geometry" />
+          <mxGeometry height="30" width="160" y="210" as="geometry" />
         </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-113" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Bershka-Mot" vertex="1">
-          <mxGeometry height="210" width="140" x="480" y="40" as="geometry" />
+          <mxGeometry height="210" width="140" x="400" y="40" as="geometry" />
         </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-119" parent="CqJAkX1c5FdrGLS3fVsE-113" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Umut Demiray" vertex="1">
           <mxGeometry height="30" width="140" y="30" as="geometry" />
@@ -62,16 +62,16 @@
           <mxGeometry height="30" width="140" y="180" as="geometry" />
         </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-117" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="ai@mothouse.com" vertex="1">
-          <mxGeometry height="20" width="140" x="40" y="160" as="geometry" />
+          <mxGeometry height="20" width="140" x="80" y="160" as="geometry" />
         </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-118" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="aksesuar@motohuse.com" vertex="1">
-          <mxGeometry height="20" width="140" x="40" y="840" as="geometry" />
+          <mxGeometry height="20" width="160" x="70" y="870" as="geometry" />
         </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-126" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="bershka@mothouse.com" vertex="1">
-          <mxGeometry height="30" width="140" x="480" y="250" as="geometry" />
+          <mxGeometry height="30" width="140" x="400" y="250" as="geometry" />
         </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-127" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Bershka Development" vertex="1">
-          <mxGeometry height="180" width="140" x="35" y="240" as="geometry" />
+          <mxGeometry height="180" width="140" x="75" y="240" as="geometry" />
         </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-132" parent="CqJAkX1c5FdrGLS3fVsE-127" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Cem Benezra" vertex="1">
           <mxGeometry height="30" width="140" y="30" as="geometry" />
@@ -88,23 +88,32 @@
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-136" parent="CqJAkX1c5FdrGLS3fVsE-127" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Ercan Akkaya" vertex="1">
           <mxGeometry height="30" width="140" y="150" as="geometry" />
         </mxCell>
-        <mxCell id="CqJAkX1c5FdrGLS3fVsE-138" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="bershkadevelopment@motohuse.com" vertex="1">
-          <mxGeometry height="20" width="210" x="5" y="420" as="geometry" />
+        <mxCell id="CqJAkX1c5FdrGLS3fVsE-138" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="bershkadevelopment@mothouse.com" vertex="1">
+          <mxGeometry height="20" width="210" x="45" y="420" as="geometry" />
         </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-139" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Bonobo Mothouse" vertex="1">
-          <mxGeometry height="120" width="140" x="480" y="320" as="geometry" />
+          <mxGeometry height="205" width="140" x="400" y="320" as="geometry" />
         </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-143" parent="CqJAkX1c5FdrGLS3fVsE-139" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Semet Ateş" vertex="1">
           <mxGeometry height="30" width="140" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="CqJAkX1c5FdrGLS3fVsE-144" parent="CqJAkX1c5FdrGLS3fVsE-139" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Özlem Ergin" vertex="1">
+        <mxCell id="ECmXwgW8DTYXgq-eAfSy-1" parent="CqJAkX1c5FdrGLS3fVsE-139" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Cem Benezra" vertex="1">
           <mxGeometry height="30" width="140" y="60" as="geometry" />
         </mxCell>
-        <mxCell id="CqJAkX1c5FdrGLS3fVsE-145" parent="CqJAkX1c5FdrGLS3fVsE-139" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Nafiye İmren" vertex="1">
-          <mxGeometry height="30" width="140" y="90" as="geometry" />
+        <mxCell id="ECmXwgW8DTYXgq-eAfSy-3" parent="CqJAkX1c5FdrGLS3fVsE-139" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Hatice&amp;nbsp; Ateş" vertex="1">
+          <mxGeometry height="25" width="140" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ECmXwgW8DTYXgq-eAfSy-10" parent="CqJAkX1c5FdrGLS3fVsE-139" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Seher Çorbacıoğlu" vertex="1">
+          <mxGeometry height="30" width="140" y="115" as="geometry" />
+        </mxCell>
+        <mxCell id="CqJAkX1c5FdrGLS3fVsE-144" parent="CqJAkX1c5FdrGLS3fVsE-139" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Özlem Ergin" vertex="1">
+          <mxGeometry height="30" width="140" y="145" as="geometry" />
+        </mxCell>
+        <mxCell id="ECmXwgW8DTYXgq-eAfSy-7" parent="CqJAkX1c5FdrGLS3fVsE-139" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Merve Akün" vertex="1">
+          <mxGeometry height="30" width="140" y="175" as="geometry" />
         </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-146" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Boohoo Mothouse" vertex="1">
-          <mxGeometry height="90" width="140" x="40" y="480" as="geometry" />
+          <mxGeometry height="90" width="140" x="80" y="480" as="geometry" />
         </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-150" parent="CqJAkX1c5FdrGLS3fVsE-146" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Cem Benezra" vertex="1">
           <mxGeometry height="30" width="140" y="30" as="geometry" />
@@ -113,7 +122,7 @@
           <mxGeometry height="30" width="140" y="60" as="geometry" />
         </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-152" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Çıkış" vertex="1">
-          <mxGeometry height="570" width="140" x="480" y="480" as="geometry" />
+          <mxGeometry height="660" width="140" x="400" y="640" as="geometry" />
         </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-156" parent="CqJAkX1c5FdrGLS3fVsE-152" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Cem Benezra" vertex="1">
           <mxGeometry height="30" width="140" y="30" as="geometry" />
@@ -166,11 +175,20 @@
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-172" parent="CqJAkX1c5FdrGLS3fVsE-152" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="İlayda Karakaş" vertex="1">
           <mxGeometry height="30" width="140" y="510" as="geometry" />
         </mxCell>
-        <mxCell id="CqJAkX1c5FdrGLS3fVsE-173" parent="CqJAkX1c5FdrGLS3fVsE-152" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Tuna Gürsoy" vertex="1">
+        <mxCell id="ECmXwgW8DTYXgq-eAfSy-16" parent="CqJAkX1c5FdrGLS3fVsE-152" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Zerrin Can" vertex="1">
           <mxGeometry height="30" width="140" y="540" as="geometry" />
         </mxCell>
+        <mxCell id="ECmXwgW8DTYXgq-eAfSy-13" parent="CqJAkX1c5FdrGLS3fVsE-152" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Rana Erdoğan" vertex="1">
+          <mxGeometry height="30" width="140" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="ECmXwgW8DTYXgq-eAfSy-12" parent="CqJAkX1c5FdrGLS3fVsE-152" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Merve Akün" vertex="1">
+          <mxGeometry height="30" width="140" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="CqJAkX1c5FdrGLS3fVsE-173" parent="CqJAkX1c5FdrGLS3fVsE-152" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Tuna Gürsoy" vertex="1">
+          <mxGeometry height="30" width="140" y="630" as="geometry" />
+        </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-174" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="cikis@mothouse.com" vertex="1">
-          <mxGeometry height="20" width="140" x="480" y="1050" as="geometry" />
+          <mxGeometry height="20" width="140" x="400" y="1300" as="geometry" />
         </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-175" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Destek" vertex="1">
           <mxGeometry height="120" width="140" x="760" y="40" as="geometry" />
@@ -185,10 +203,10 @@
           <mxGeometry height="30" width="140" y="90" as="geometry" />
         </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-183" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="boohoo@mothouse.com" vertex="1">
-          <mxGeometry height="20" width="140" x="40" y="570" as="geometry" />
+          <mxGeometry height="20" width="140" x="80" y="570" as="geometry" />
         </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-184" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="bonobo@mothouse.com" vertex="1">
-          <mxGeometry height="20" width="140" x="480" y="440" as="geometry" />
+          <mxGeometry height="20" width="140" x="400" y="525" as="geometry" />
         </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-185" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="motdestek@mothouse.com" vertex="1">
           <mxGeometry height="15" width="150" x="760" y="162.5" as="geometry" />
@@ -254,10 +272,10 @@
           <mxGeometry height="30" width="160" y="350" as="geometry" />
         </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-211" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="herno@mothouse.com" vertex="1">
-          <mxGeometry height="20" width="150" x="760" y="1020" as="geometry" />
+          <mxGeometry height="20" width="160" x="760" y="1020" as="geometry" />
         </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-212" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="İlanTakip" vertex="1">
-          <mxGeometry height="110" width="140" x="40" y="920" as="geometry" />
+          <mxGeometry height="110" width="140" x="77.5" y="920" as="geometry" />
         </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-216" parent="CqJAkX1c5FdrGLS3fVsE-212" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Semet Ateş" vertex="1">
           <mxGeometry height="20" width="140" y="30" as="geometry" />
@@ -269,10 +287,10 @@
           <mxGeometry height="30" width="140" y="80" as="geometry" />
         </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-219" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="basvuru@mothouse.com" vertex="1">
-          <mxGeometry height="30" width="145" x="37.5" y="1030" as="geometry" />
+          <mxGeometry height="30" width="145" x="75" y="1030" as="geometry" />
         </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-224" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="İmalat" vertex="1">
-          <mxGeometry height="750" width="140" x="40" y="1080" as="geometry" />
+          <mxGeometry height="630" width="140" x="75" y="1080" as="geometry" />
         </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-225" parent="CqJAkX1c5FdrGLS3fVsE-224" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Cem Benezra" vertex="1">
           <mxGeometry height="30" width="140" y="30" as="geometry" />
@@ -286,71 +304,59 @@
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-228" parent="CqJAkX1c5FdrGLS3fVsE-224" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Modelist" vertex="1">
           <mxGeometry height="30" width="140" y="120" as="geometry" />
         </mxCell>
-        <mxCell id="CqJAkX1c5FdrGLS3fVsE-229" parent="CqJAkX1c5FdrGLS3fVsE-224" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="kumasdepo@mothouse.com" vertex="1">
+        <mxCell id="CqJAkX1c5FdrGLS3fVsE-230" parent="CqJAkX1c5FdrGLS3fVsE-224" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Saniye Kurtoğlu" vertex="1">
           <mxGeometry height="30" width="140" y="150" as="geometry" />
         </mxCell>
-        <mxCell id="CqJAkX1c5FdrGLS3fVsE-230" parent="CqJAkX1c5FdrGLS3fVsE-224" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Saniye Kurtoğlu" vertex="1">
+        <mxCell id="CqJAkX1c5FdrGLS3fVsE-231" parent="CqJAkX1c5FdrGLS3fVsE-224" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Seher Çorbacıoğlu" vertex="1">
           <mxGeometry height="30" width="140" y="180" as="geometry" />
         </mxCell>
-        <mxCell id="CqJAkX1c5FdrGLS3fVsE-231" parent="CqJAkX1c5FdrGLS3fVsE-224" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Seher Çorbacıoğlu" vertex="1">
+        <mxCell id="CqJAkX1c5FdrGLS3fVsE-233" parent="CqJAkX1c5FdrGLS3fVsE-224" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Nafiye İmren" vertex="1">
           <mxGeometry height="30" width="140" y="210" as="geometry" />
         </mxCell>
-        <mxCell id="CqJAkX1c5FdrGLS3fVsE-232" parent="CqJAkX1c5FdrGLS3fVsE-224" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Esra Duran" vertex="1">
+        <mxCell id="CqJAkX1c5FdrGLS3fVsE-234" parent="CqJAkX1c5FdrGLS3fVsE-224" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Ercan&amp;nbsp; Akkaya" vertex="1">
           <mxGeometry height="30" width="140" y="240" as="geometry" />
         </mxCell>
-        <mxCell id="CqJAkX1c5FdrGLS3fVsE-233" parent="CqJAkX1c5FdrGLS3fVsE-224" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Nafiye İmren" vertex="1">
+        <mxCell id="CqJAkX1c5FdrGLS3fVsE-236" parent="CqJAkX1c5FdrGLS3fVsE-224" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Yaşar Saraç" vertex="1">
           <mxGeometry height="30" width="140" y="270" as="geometry" />
         </mxCell>
-        <mxCell id="CqJAkX1c5FdrGLS3fVsE-234" parent="CqJAkX1c5FdrGLS3fVsE-224" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Ercan&amp;nbsp; Akkaya" vertex="1">
+        <mxCell id="CqJAkX1c5FdrGLS3fVsE-238" parent="CqJAkX1c5FdrGLS3fVsE-224" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Şule Gündoğan" vertex="1">
           <mxGeometry height="30" width="140" y="300" as="geometry" />
         </mxCell>
-        <mxCell id="CqJAkX1c5FdrGLS3fVsE-235" parent="CqJAkX1c5FdrGLS3fVsE-224" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Göktuğ Göktürk" vertex="1">
+        <mxCell id="CqJAkX1c5FdrGLS3fVsE-239" parent="CqJAkX1c5FdrGLS3fVsE-224" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Seda Düz" vertex="1">
           <mxGeometry height="30" width="140" y="330" as="geometry" />
         </mxCell>
-        <mxCell id="CqJAkX1c5FdrGLS3fVsE-236" parent="CqJAkX1c5FdrGLS3fVsE-224" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Yaşar Saraç" vertex="1">
+        <mxCell id="CqJAkX1c5FdrGLS3fVsE-240" parent="CqJAkX1c5FdrGLS3fVsE-224" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Havva taşçı" vertex="1">
           <mxGeometry height="30" width="140" y="360" as="geometry" />
         </mxCell>
-        <mxCell id="CqJAkX1c5FdrGLS3fVsE-237" parent="CqJAkX1c5FdrGLS3fVsE-224" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="infoteam@mothouse.com" vertex="1">
+        <mxCell id="CqJAkX1c5FdrGLS3fVsE-241" parent="CqJAkX1c5FdrGLS3fVsE-224" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="İlayda Karakaş" vertex="1">
           <mxGeometry height="30" width="140" y="390" as="geometry" />
         </mxCell>
-        <mxCell id="CqJAkX1c5FdrGLS3fVsE-238" parent="CqJAkX1c5FdrGLS3fVsE-224" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Şule Gündoğan" vertex="1">
+        <mxCell id="CqJAkX1c5FdrGLS3fVsE-245" parent="CqJAkX1c5FdrGLS3fVsE-224" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Mustafa Meral" vertex="1">
           <mxGeometry height="30" width="140" y="420" as="geometry" />
         </mxCell>
-        <mxCell id="CqJAkX1c5FdrGLS3fVsE-239" parent="CqJAkX1c5FdrGLS3fVsE-224" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Seda Düz" vertex="1">
+        <mxCell id="CqJAkX1c5FdrGLS3fVsE-246" parent="CqJAkX1c5FdrGLS3fVsE-224" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Soner Başkaya" vertex="1">
           <mxGeometry height="30" width="140" y="450" as="geometry" />
         </mxCell>
-        <mxCell id="CqJAkX1c5FdrGLS3fVsE-240" parent="CqJAkX1c5FdrGLS3fVsE-224" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Havva taşçı" vertex="1">
+        <mxCell id="CqJAkX1c5FdrGLS3fVsE-244" parent="CqJAkX1c5FdrGLS3fVsE-224" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Özlem Ergin" vertex="1">
           <mxGeometry height="30" width="140" y="480" as="geometry" />
         </mxCell>
-        <mxCell id="CqJAkX1c5FdrGLS3fVsE-241" parent="CqJAkX1c5FdrGLS3fVsE-224" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="İlayda Karakaş" vertex="1">
+        <mxCell id="CqJAkX1c5FdrGLS3fVsE-247" parent="CqJAkX1c5FdrGLS3fVsE-224" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Gökhan Çağlayan" vertex="1">
           <mxGeometry height="30" width="140" y="510" as="geometry" />
         </mxCell>
-        <mxCell id="CqJAkX1c5FdrGLS3fVsE-245" parent="CqJAkX1c5FdrGLS3fVsE-224" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Mustafa Meral" vertex="1">
+        <mxCell id="CqJAkX1c5FdrGLS3fVsE-248" parent="CqJAkX1c5FdrGLS3fVsE-224" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Havva Taşçı" vertex="1">
           <mxGeometry height="30" width="140" y="540" as="geometry" />
         </mxCell>
-        <mxCell id="CqJAkX1c5FdrGLS3fVsE-246" parent="CqJAkX1c5FdrGLS3fVsE-224" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Soner Başkaya" vertex="1">
+        <mxCell id="CqJAkX1c5FdrGLS3fVsE-249" parent="CqJAkX1c5FdrGLS3fVsE-224" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="sevkiyat@mothouse.com" vertex="1">
           <mxGeometry height="30" width="140" y="570" as="geometry" />
         </mxCell>
-        <mxCell id="CqJAkX1c5FdrGLS3fVsE-244" parent="CqJAkX1c5FdrGLS3fVsE-224" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Özlem Ergin" vertex="1">
+        <mxCell id="CqJAkX1c5FdrGLS3fVsE-242" parent="CqJAkX1c5FdrGLS3fVsE-224" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Tuna Gürsoy" vertex="1">
           <mxGeometry height="30" width="140" y="600" as="geometry" />
         </mxCell>
-        <mxCell id="CqJAkX1c5FdrGLS3fVsE-247" parent="CqJAkX1c5FdrGLS3fVsE-224" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Gökhan Çağlayan" vertex="1">
-          <mxGeometry height="30" width="140" y="630" as="geometry" />
-        </mxCell>
-        <mxCell id="CqJAkX1c5FdrGLS3fVsE-248" parent="CqJAkX1c5FdrGLS3fVsE-224" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Havva Taşçı" vertex="1">
-          <mxGeometry height="30" width="140" y="660" as="geometry" />
-        </mxCell>
-        <mxCell id="CqJAkX1c5FdrGLS3fVsE-249" parent="CqJAkX1c5FdrGLS3fVsE-224" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="sevkiyat@motohuse.com" vertex="1">
-          <mxGeometry height="30" width="140" y="690" as="geometry" />
-        </mxCell>
-        <mxCell id="CqJAkX1c5FdrGLS3fVsE-242" parent="CqJAkX1c5FdrGLS3fVsE-224" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Tuna Gürsoy" vertex="1">
-          <mxGeometry height="30" width="140" y="720" as="geometry" />
-        </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-243" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="imalat@mothouse.com" vertex="1">
-          <mxGeometry height="20" width="145" x="35" y="1830" as="geometry" />
+          <mxGeometry height="20" width="145" x="75" y="1710" as="geometry" />
         </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-251" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="İrsaliye" vertex="1">
-          <mxGeometry height="150" width="140" x="480" y="1120" as="geometry" />
+          <mxGeometry height="150" width="140" x="397.5" y="1360" as="geometry" />
         </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-255" parent="CqJAkX1c5FdrGLS3fVsE-251" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Cem Benezra" vertex="1">
           <mxGeometry height="30" width="140" y="30" as="geometry" />
@@ -361,14 +367,14 @@
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-257" parent="CqJAkX1c5FdrGLS3fVsE-251" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Mustafa Meral" vertex="1">
           <mxGeometry height="30" width="140" y="90" as="geometry" />
         </mxCell>
-        <mxCell id="CqJAkX1c5FdrGLS3fVsE-258" parent="CqJAkX1c5FdrGLS3fVsE-251" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="sevkiyat@motohuse.com" vertex="1">
+        <mxCell id="CqJAkX1c5FdrGLS3fVsE-258" parent="CqJAkX1c5FdrGLS3fVsE-251" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="sevkiyat@mothouse.com" vertex="1">
           <mxGeometry height="30" width="140" y="120" as="geometry" />
         </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-259" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="irsaliye@mothouse.com" vertex="1">
-          <mxGeometry height="20" width="140" x="480" y="1270" as="geometry" />
+          <mxGeometry height="20" width="140" x="397.5" y="1510" as="geometry" />
         </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-260" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="IT" vertex="1">
-          <mxGeometry height="90" width="140" x="480" y="1360" as="geometry" />
+          <mxGeometry height="90" width="140" x="400" y="1620" as="geometry" />
         </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-264" parent="CqJAkX1c5FdrGLS3fVsE-260" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Göktuğ Göktürk" vertex="1">
           <mxGeometry height="30" width="140" y="30" as="geometry" />
@@ -377,7 +383,7 @@
           <mxGeometry height="30" width="140" y="60" as="geometry" />
         </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-267" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="bilisim@mothouse.com" vertex="1">
-          <mxGeometry height="20" width="140" x="480" y="1450" as="geometry" />
+          <mxGeometry height="20" width="140" x="400" y="1710" as="geometry" />
         </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-268" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Jules" vertex="1">
           <mxGeometry height="225" width="140" x="760" y="1120" as="geometry" />
@@ -407,7 +413,7 @@
           <mxGeometry height="30" width="140" y="195" as="geometry" />
         </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-281" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Kesim Mothouse" vertex="1">
-          <mxGeometry height="170" width="190" x="480" y="1520" as="geometry" />
+          <mxGeometry height="170" width="190" x="397.5" y="1838" as="geometry" />
         </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-285" parent="CqJAkX1c5FdrGLS3fVsE-281" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Cem Benezra" vertex="1">
           <mxGeometry height="30" width="190" y="30" as="geometry" />
@@ -425,15 +431,15 @@
           <mxGeometry height="30" width="190" y="140" as="geometry" />
         </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-289" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="kesim@mothouse.com" vertex="1">
-          <mxGeometry height="20" width="190" x="480" y="1690" as="geometry" />
+          <mxGeometry height="20" width="190" x="397.5" y="2008" as="geometry" />
         </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-291" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="KVKK" vertex="1">
-          <mxGeometry height="140" width="140" x="800" y="1440" as="geometry" />
+          <mxGeometry height="140" width="140" x="770" y="1620" as="geometry" />
         </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-299" parent="CqJAkX1c5FdrGLS3fVsE-291" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Mustafa Meral" vertex="1">
           <mxGeometry height="30" width="140" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="CqJAkX1c5FdrGLS3fVsE-300" parent="CqJAkX1c5FdrGLS3fVsE-291" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Umur Demiray" vertex="1">
+        <mxCell id="CqJAkX1c5FdrGLS3fVsE-300" parent="CqJAkX1c5FdrGLS3fVsE-291" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Umut Demiray" vertex="1">
           <mxGeometry height="30" width="140" y="60" as="geometry" />
         </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-295" parent="CqJAkX1c5FdrGLS3fVsE-291" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Cem Benezra" vertex="1">
@@ -443,10 +449,10 @@
           <mxGeometry height="20" width="140" y="120" as="geometry" />
         </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-301" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="kvkk@mothouse.com" vertex="1">
-          <mxGeometry height="30" width="140" x="800" y="1580" as="geometry" />
+          <mxGeometry height="30" width="140" x="770" y="1760" as="geometry" />
         </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-302" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Mavi 2. Kallite" vertex="1">
-          <mxGeometry height="240" width="160" x="40" y="1920" as="geometry" />
+          <mxGeometry height="270" width="160" x="77.5" y="1838" as="geometry" />
         </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-307" parent="CqJAkX1c5FdrGLS3fVsE-302" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Emin Bozbıyık" vertex="1">
           <mxGeometry height="30" width="160" y="30" as="geometry" />
@@ -463,17 +469,20 @@
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-312" parent="CqJAkX1c5FdrGLS3fVsE-302" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Seda Düz" vertex="1">
           <mxGeometry height="30" width="160" y="150" as="geometry" />
         </mxCell>
-        <mxCell id="CqJAkX1c5FdrGLS3fVsE-309" parent="CqJAkX1c5FdrGLS3fVsE-302" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Nafiye İmren" vertex="1">
+        <mxCell id="ECmXwgW8DTYXgq-eAfSy-17" parent="CqJAkX1c5FdrGLS3fVsE-302" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Rana Erdoğan" vertex="1">
           <mxGeometry height="30" width="160" y="180" as="geometry" />
         </mxCell>
-        <mxCell id="CqJAkX1c5FdrGLS3fVsE-306" parent="CqJAkX1c5FdrGLS3fVsE-302" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Cem Benezra" vertex="1">
+        <mxCell id="CqJAkX1c5FdrGLS3fVsE-309" parent="CqJAkX1c5FdrGLS3fVsE-302" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Nafiye İmren" vertex="1">
           <mxGeometry height="30" width="160" y="210" as="geometry" />
         </mxCell>
+        <mxCell id="CqJAkX1c5FdrGLS3fVsE-306" parent="CqJAkX1c5FdrGLS3fVsE-302" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Cem Benezra" vertex="1">
+          <mxGeometry height="30" width="160" y="240" as="geometry" />
+        </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-314" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="mavi2kalite@mothouse.com" vertex="1">
-          <mxGeometry height="25" width="160" x="40" y="2160" as="geometry" />
+          <mxGeometry height="25" width="160" x="77.5" y="2108" as="geometry" />
         </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-319" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="MaviAlım" vertex="1">
-          <mxGeometry height="770" width="140" x="485" y="1760" as="geometry" />
+          <mxGeometry height="740" width="140" x="402.5" y="2160" as="geometry" />
         </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-320" parent="CqJAkX1c5FdrGLS3fVsE-319" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Cem Benezra" vertex="1">
           <mxGeometry height="30" width="140" y="30" as="geometry" />
@@ -496,20 +505,20 @@
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-326" parent="CqJAkX1c5FdrGLS3fVsE-319" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Seher Çorbacıoğlu" vertex="1">
           <mxGeometry height="30" width="140" y="210" as="geometry" />
         </mxCell>
-        <mxCell id="CqJAkX1c5FdrGLS3fVsE-327" parent="CqJAkX1c5FdrGLS3fVsE-319" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Esra Duran" vertex="1">
+        <mxCell id="ECmXwgW8DTYXgq-eAfSy-21" parent="CqJAkX1c5FdrGLS3fVsE-319" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Selda Ateş" vertex="1">
           <mxGeometry height="30" width="140" y="240" as="geometry" />
         </mxCell>
-        <mxCell id="CqJAkX1c5FdrGLS3fVsE-328" parent="CqJAkX1c5FdrGLS3fVsE-319" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Nafiye İmren" vertex="1">
+        <mxCell id="CqJAkX1c5FdrGLS3fVsE-327" parent="CqJAkX1c5FdrGLS3fVsE-319" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Esra Duran" vertex="1">
           <mxGeometry height="30" width="140" y="270" as="geometry" />
         </mxCell>
-        <mxCell id="CqJAkX1c5FdrGLS3fVsE-329" parent="CqJAkX1c5FdrGLS3fVsE-319" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Ercan&amp;nbsp; Akkaya" vertex="1">
+        <mxCell id="CqJAkX1c5FdrGLS3fVsE-328" parent="CqJAkX1c5FdrGLS3fVsE-319" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Nafiye İmren" vertex="1">
           <mxGeometry height="30" width="140" y="300" as="geometry" />
         </mxCell>
-        <mxCell id="CqJAkX1c5FdrGLS3fVsE-345" parent="CqJAkX1c5FdrGLS3fVsE-319" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Eda Çakmak" vertex="1">
-          <mxGeometry height="20" width="140" y="330" as="geometry" />
+        <mxCell id="CqJAkX1c5FdrGLS3fVsE-329" parent="CqJAkX1c5FdrGLS3fVsE-319" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Ercan&amp;nbsp; Akkaya" vertex="1">
+          <mxGeometry height="30" width="140" y="330" as="geometry" />
         </mxCell>
-        <mxCell id="CqJAkX1c5FdrGLS3fVsE-330" parent="CqJAkX1c5FdrGLS3fVsE-319" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Göktuğ Göktürk" vertex="1">
-          <mxGeometry height="30" width="140" y="350" as="geometry" />
+        <mxCell id="CqJAkX1c5FdrGLS3fVsE-345" parent="CqJAkX1c5FdrGLS3fVsE-319" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Eda Çakmak" vertex="1">
+          <mxGeometry height="20" width="140" y="360" as="geometry" />
         </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-331" parent="CqJAkX1c5FdrGLS3fVsE-319" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Yaşar Saraç" vertex="1">
           <mxGeometry height="30" width="140" y="380" as="geometry" />
@@ -532,29 +541,26 @@
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-336" parent="CqJAkX1c5FdrGLS3fVsE-319" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="İlayda Karakaş" vertex="1">
           <mxGeometry height="30" width="140" y="560" as="geometry" />
         </mxCell>
-        <mxCell id="CqJAkX1c5FdrGLS3fVsE-337" parent="CqJAkX1c5FdrGLS3fVsE-319" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Mustafa Meral" vertex="1">
+        <mxCell id="CqJAkX1c5FdrGLS3fVsE-338" parent="CqJAkX1c5FdrGLS3fVsE-319" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Soner Başkaya" vertex="1">
           <mxGeometry height="30" width="140" y="590" as="geometry" />
         </mxCell>
-        <mxCell id="CqJAkX1c5FdrGLS3fVsE-338" parent="CqJAkX1c5FdrGLS3fVsE-319" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Soner Başkaya" vertex="1">
+        <mxCell id="CqJAkX1c5FdrGLS3fVsE-339" parent="CqJAkX1c5FdrGLS3fVsE-319" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Özlem Ergin" vertex="1">
           <mxGeometry height="30" width="140" y="620" as="geometry" />
         </mxCell>
-        <mxCell id="CqJAkX1c5FdrGLS3fVsE-339" parent="CqJAkX1c5FdrGLS3fVsE-319" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Özlem Ergin" vertex="1">
+        <mxCell id="CqJAkX1c5FdrGLS3fVsE-341" parent="CqJAkX1c5FdrGLS3fVsE-319" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Havva Taşçı" vertex="1">
           <mxGeometry height="30" width="140" y="650" as="geometry" />
         </mxCell>
-        <mxCell id="CqJAkX1c5FdrGLS3fVsE-340" parent="CqJAkX1c5FdrGLS3fVsE-319" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Gökhan Çağlayan" vertex="1">
+        <mxCell id="ECmXwgW8DTYXgq-eAfSy-22" parent="CqJAkX1c5FdrGLS3fVsE-319" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Ege Tulunay" vertex="1">
           <mxGeometry height="30" width="140" y="680" as="geometry" />
         </mxCell>
-        <mxCell id="CqJAkX1c5FdrGLS3fVsE-341" parent="CqJAkX1c5FdrGLS3fVsE-319" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Havva Taşçı" vertex="1">
+        <mxCell id="CqJAkX1c5FdrGLS3fVsE-343" parent="CqJAkX1c5FdrGLS3fVsE-319" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Tuna Gürsoy" vertex="1">
           <mxGeometry height="30" width="140" y="710" as="geometry" />
         </mxCell>
-        <mxCell id="CqJAkX1c5FdrGLS3fVsE-343" parent="CqJAkX1c5FdrGLS3fVsE-319" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Tuna Gürsoy" vertex="1">
-          <mxGeometry height="30" width="140" y="740" as="geometry" />
-        </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-344" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="mavialim@mothouse.com" vertex="1">
-          <mxGeometry height="20" width="145" x="485" y="2530" as="geometry" />
+          <mxGeometry height="20" width="145" x="400" y="2900" as="geometry" />
         </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-347" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Mavi&amp;nbsp; Erkek Üretim" vertex="1">
-          <mxGeometry height="210" width="160" x="800" y="1760" as="geometry" />
+          <mxGeometry height="210" width="160" x="770" y="1960" as="geometry" />
         </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-349" parent="CqJAkX1c5FdrGLS3fVsE-347" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="infoteam@mothouse.com" vertex="1">
           <mxGeometry height="30" width="160" y="30" as="geometry" />
@@ -575,10 +581,10 @@
           <mxGeometry height="30" width="160" y="180" as="geometry" />
         </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-355" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="maviep@mothouse.com" vertex="1">
-          <mxGeometry height="25" width="160" x="800" y="1970" as="geometry" />
+          <mxGeometry height="25" width="160" x="770" y="2170" as="geometry" />
         </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-359" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Mavi Final" vertex="1">
-          <mxGeometry height="470" width="160" x="800" y="2080" as="geometry" />
+          <mxGeometry height="590" width="160" x="768.82" y="2310" as="geometry" />
         </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-360" parent="CqJAkX1c5FdrGLS3fVsE-359" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Emin Bozbıyık" vertex="1">
           <mxGeometry height="30" width="160" y="30" as="geometry" />
@@ -607,32 +613,44 @@
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-370" parent="CqJAkX1c5FdrGLS3fVsE-359" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Saniye Kurtoğlu" vertex="1">
           <mxGeometry height="30" width="160" y="270" as="geometry" />
         </mxCell>
-        <mxCell id="CqJAkX1c5FdrGLS3fVsE-364" parent="CqJAkX1c5FdrGLS3fVsE-359" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Seda Düz" vertex="1">
+        <mxCell id="ECmXwgW8DTYXgq-eAfSy-25" parent="CqJAkX1c5FdrGLS3fVsE-359" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Semet Ateş" vertex="1">
           <mxGeometry height="30" width="160" y="300" as="geometry" />
         </mxCell>
-        <mxCell id="CqJAkX1c5FdrGLS3fVsE-369" parent="CqJAkX1c5FdrGLS3fVsE-359" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Ercan&amp;nbsp; Akkaya" vertex="1">
+        <mxCell id="CqJAkX1c5FdrGLS3fVsE-364" parent="CqJAkX1c5FdrGLS3fVsE-359" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Seda Düz" vertex="1">
           <mxGeometry height="30" width="160" y="330" as="geometry" />
         </mxCell>
-        <mxCell id="CqJAkX1c5FdrGLS3fVsE-365" parent="CqJAkX1c5FdrGLS3fVsE-359" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Nafiye İmren" vertex="1">
+        <mxCell id="CqJAkX1c5FdrGLS3fVsE-369" parent="CqJAkX1c5FdrGLS3fVsE-359" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Ercan&amp;nbsp; Akkaya" vertex="1">
           <mxGeometry height="30" width="160" y="360" as="geometry" />
         </mxCell>
+        <mxCell id="CqJAkX1c5FdrGLS3fVsE-365" parent="CqJAkX1c5FdrGLS3fVsE-359" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Nafiye İmren" vertex="1">
+          <mxGeometry height="30" width="160" y="390" as="geometry" />
+        </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-368" parent="CqJAkX1c5FdrGLS3fVsE-359" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Eda Çakmak" vertex="1">
-          <mxGeometry height="20" width="160" y="390" as="geometry" />
+          <mxGeometry height="20" width="160" y="420" as="geometry" />
         </mxCell>
-        <mxCell id="CqJAkX1c5FdrGLS3fVsE-377" parent="CqJAkX1c5FdrGLS3fVsE-359" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Tuna Gürsoy" vertex="1">
-          <mxGeometry height="30" width="160" y="410" as="geometry" />
-        </mxCell>
-        <mxCell id="CqJAkX1c5FdrGLS3fVsE-366" parent="CqJAkX1c5FdrGLS3fVsE-359" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Cem Benezra" vertex="1">
+        <mxCell id="ECmXwgW8DTYXgq-eAfSy-29" parent="CqJAkX1c5FdrGLS3fVsE-359" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Rana Erdoğan" vertex="1">
           <mxGeometry height="30" width="160" y="440" as="geometry" />
         </mxCell>
+        <mxCell id="CqJAkX1c5FdrGLS3fVsE-377" parent="CqJAkX1c5FdrGLS3fVsE-359" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Tuna Gürsoy" vertex="1">
+          <mxGeometry height="30" width="160" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="ECmXwgW8DTYXgq-eAfSy-28" parent="CqJAkX1c5FdrGLS3fVsE-359" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Havva Taşçı" vertex="1">
+          <mxGeometry height="30" width="160" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="ECmXwgW8DTYXgq-eAfSy-30" parent="CqJAkX1c5FdrGLS3fVsE-359" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Tuna Gürsoy" vertex="1">
+          <mxGeometry height="30" width="160" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="CqJAkX1c5FdrGLS3fVsE-366" parent="CqJAkX1c5FdrGLS3fVsE-359" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Cem Benezra" vertex="1">
+          <mxGeometry height="30" width="160" y="560" as="geometry" />
+        </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-367" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="mavifinal@mothouse.com" vertex="1">
-          <mxGeometry height="25" width="160" x="800" y="2550" as="geometry" />
+          <mxGeometry height="25" width="160" x="768.82" y="2895" as="geometry" />
         </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-375" edge="1" parent="1" source="CqJAkX1c5FdrGLS3fVsE-367" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" target="CqJAkX1c5FdrGLS3fVsE-367">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CqJAkX1c5FdrGLS3fVsE-378" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Mavi&amp;nbsp; Erkek Üretim" vertex="1">
-          <mxGeometry height="180" width="160" x="40" y="2240" as="geometry" />
+        <mxCell id="CqJAkX1c5FdrGLS3fVsE-378" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Mavi&amp;nbsp; Kadın Üretim" vertex="1">
+          <mxGeometry height="240" width="160" x="75" y="2205" as="geometry" />
         </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-379" parent="CqJAkX1c5FdrGLS3fVsE-378" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="infoteam@mothouse.com" vertex="1">
           <mxGeometry height="30" width="160" y="30" as="geometry" />
@@ -643,17 +661,23 @@
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-381" parent="CqJAkX1c5FdrGLS3fVsE-378" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Seda Düz" vertex="1">
           <mxGeometry height="30" width="160" y="90" as="geometry" />
         </mxCell>
-        <mxCell id="CqJAkX1c5FdrGLS3fVsE-382" parent="CqJAkX1c5FdrGLS3fVsE-378" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Tuna Gürsoy" vertex="1">
+        <mxCell id="ECmXwgW8DTYXgq-eAfSy-20" parent="CqJAkX1c5FdrGLS3fVsE-378" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Havva Taşçı" vertex="1">
           <mxGeometry height="30" width="160" y="120" as="geometry" />
         </mxCell>
-        <mxCell id="CqJAkX1c5FdrGLS3fVsE-384" parent="CqJAkX1c5FdrGLS3fVsE-378" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Nafiye İmren" vertex="1">
+        <mxCell id="ECmXwgW8DTYXgq-eAfSy-19" parent="CqJAkX1c5FdrGLS3fVsE-378" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Rana Erdoğan" vertex="1">
           <mxGeometry height="30" width="160" y="150" as="geometry" />
         </mxCell>
+        <mxCell id="CqJAkX1c5FdrGLS3fVsE-382" parent="CqJAkX1c5FdrGLS3fVsE-378" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Tuna Gürsoy" vertex="1">
+          <mxGeometry height="30" width="160" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="CqJAkX1c5FdrGLS3fVsE-384" parent="CqJAkX1c5FdrGLS3fVsE-378" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Nafiye İmren" vertex="1">
+          <mxGeometry height="30" width="160" y="210" as="geometry" />
+        </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-385" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="mavikp@mothouse.com" vertex="1">
-          <mxGeometry height="25" width="160" x="40" y="2420" as="geometry" />
+          <mxGeometry height="25" width="160" x="75" y="2446" as="geometry" />
         </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-386" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Mavi&amp;nbsp; PO" vertex="1">
-          <mxGeometry height="270" width="160" x="40" y="2520" as="geometry" />
+          <mxGeometry height="270" width="160" x="77.5" y="2560" as="geometry" />
         </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-387" parent="CqJAkX1c5FdrGLS3fVsE-386" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="infoteam@mothouse.com" vertex="1">
           <mxGeometry height="30" width="160" y="30" as="geometry" />
@@ -680,10 +704,10 @@
           <mxGeometry height="30" width="160" y="240" as="geometry" />
         </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-392" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="mavipo@mothouse.com" vertex="1">
-          <mxGeometry height="25" width="160" x="40" y="2790" as="geometry" />
+          <mxGeometry height="25" width="160" x="77.5" y="2830" as="geometry" />
         </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-396" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Mavi&amp;nbsp; Test" vertex="1">
-          <mxGeometry height="270" width="160" x="480" y="2600" as="geometry" />
+          <mxGeometry height="330" width="160" x="400" y="3000" as="geometry" />
         </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-397" parent="CqJAkX1c5FdrGLS3fVsE-396" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="infoteam@mothouse.com" vertex="1">
           <mxGeometry height="30" width="160" y="30" as="geometry" />
@@ -697,53 +721,65 @@
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-400" parent="CqJAkX1c5FdrGLS3fVsE-396" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Şule Gündoğan" vertex="1">
           <mxGeometry height="30" width="160" y="120" as="geometry" />
         </mxCell>
-        <mxCell id="CqJAkX1c5FdrGLS3fVsE-401" parent="CqJAkX1c5FdrGLS3fVsE-396" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Seher Çorbacıoğlu" vertex="1">
+        <mxCell id="CqJAkX1c5FdrGLS3fVsE-402" parent="CqJAkX1c5FdrGLS3fVsE-396" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Seda Düz" vertex="1">
           <mxGeometry height="30" width="160" y="150" as="geometry" />
         </mxCell>
-        <mxCell id="CqJAkX1c5FdrGLS3fVsE-402" parent="CqJAkX1c5FdrGLS3fVsE-396" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Seda Düz" vertex="1">
+        <mxCell id="CqJAkX1c5FdrGLS3fVsE-403" parent="CqJAkX1c5FdrGLS3fVsE-396" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Tuna Gürsoy" vertex="1">
           <mxGeometry height="30" width="160" y="180" as="geometry" />
         </mxCell>
-        <mxCell id="CqJAkX1c5FdrGLS3fVsE-403" parent="CqJAkX1c5FdrGLS3fVsE-396" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Tuna Gürsoy" vertex="1">
+        <mxCell id="ECmXwgW8DTYXgq-eAfSy-34" parent="CqJAkX1c5FdrGLS3fVsE-396" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Kumas Depo" vertex="1">
           <mxGeometry height="30" width="160" y="210" as="geometry" />
         </mxCell>
-        <mxCell id="CqJAkX1c5FdrGLS3fVsE-404" parent="CqJAkX1c5FdrGLS3fVsE-396" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Nafiye İmren" vertex="1">
+        <mxCell id="ECmXwgW8DTYXgq-eAfSy-35" parent="CqJAkX1c5FdrGLS3fVsE-396" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Rana Erdoğan" vertex="1">
           <mxGeometry height="30" width="160" y="240" as="geometry" />
         </mxCell>
+        <mxCell id="ECmXwgW8DTYXgq-eAfSy-36" parent="CqJAkX1c5FdrGLS3fVsE-396" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="havva taşçı" vertex="1">
+          <mxGeometry height="30" width="160" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="CqJAkX1c5FdrGLS3fVsE-404" parent="CqJAkX1c5FdrGLS3fVsE-396" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Nafiye İmren" vertex="1">
+          <mxGeometry height="30" width="160" y="300" as="geometry" />
+        </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-405" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="mavitest@mothouse.com" vertex="1">
-          <mxGeometry height="25" width="160" x="480" y="2870" as="geometry" />
+          <mxGeometry height="25" width="160" x="400" y="3330" as="geometry" />
         </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-406" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Mavim" vertex="1">
-          <mxGeometry height="270" width="160" x="800" y="2600" as="geometry" />
+          <mxGeometry height="330" width="160" x="768.8199999999999" y="3070" as="geometry" />
         </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-407" parent="CqJAkX1c5FdrGLS3fVsE-406" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="infoteam@mothouse.com" vertex="1">
           <mxGeometry height="30" width="160" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="CqJAkX1c5FdrGLS3fVsE-408" parent="CqJAkX1c5FdrGLS3fVsE-406" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Emin Bozbıyık" vertex="1">
+        <mxCell id="CqJAkX1c5FdrGLS3fVsE-409" parent="CqJAkX1c5FdrGLS3fVsE-406" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Cem Benezra" vertex="1">
           <mxGeometry height="30" width="160" y="60" as="geometry" />
         </mxCell>
-        <mxCell id="CqJAkX1c5FdrGLS3fVsE-409" parent="CqJAkX1c5FdrGLS3fVsE-406" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Cem Benezra" vertex="1">
+        <mxCell id="CqJAkX1c5FdrGLS3fVsE-410" parent="CqJAkX1c5FdrGLS3fVsE-406" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Şule Gündoğan" vertex="1">
           <mxGeometry height="30" width="160" y="90" as="geometry" />
         </mxCell>
-        <mxCell id="CqJAkX1c5FdrGLS3fVsE-410" parent="CqJAkX1c5FdrGLS3fVsE-406" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Şule Gündoğan" vertex="1">
+        <mxCell id="CqJAkX1c5FdrGLS3fVsE-411" parent="CqJAkX1c5FdrGLS3fVsE-406" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Seher Çorbacıoğlu" vertex="1">
           <mxGeometry height="30" width="160" y="120" as="geometry" />
         </mxCell>
-        <mxCell id="CqJAkX1c5FdrGLS3fVsE-411" parent="CqJAkX1c5FdrGLS3fVsE-406" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Seher Çorbacıoğlu" vertex="1">
+        <mxCell id="CqJAkX1c5FdrGLS3fVsE-412" parent="CqJAkX1c5FdrGLS3fVsE-406" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Seda Düz" vertex="1">
           <mxGeometry height="30" width="160" y="150" as="geometry" />
         </mxCell>
-        <mxCell id="CqJAkX1c5FdrGLS3fVsE-412" parent="CqJAkX1c5FdrGLS3fVsE-406" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Seda Düz" vertex="1">
+        <mxCell id="CqJAkX1c5FdrGLS3fVsE-413" parent="CqJAkX1c5FdrGLS3fVsE-406" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Tuna Gürsoy" vertex="1">
           <mxGeometry height="30" width="160" y="180" as="geometry" />
         </mxCell>
-        <mxCell id="CqJAkX1c5FdrGLS3fVsE-413" parent="CqJAkX1c5FdrGLS3fVsE-406" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Tuna Gürsoy" vertex="1">
+        <mxCell id="ECmXwgW8DTYXgq-eAfSy-41" parent="CqJAkX1c5FdrGLS3fVsE-406" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Rana Erdoğan" vertex="1">
           <mxGeometry height="30" width="160" y="210" as="geometry" />
         </mxCell>
-        <mxCell id="CqJAkX1c5FdrGLS3fVsE-414" parent="CqJAkX1c5FdrGLS3fVsE-406" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Nafiye İmren" vertex="1">
+        <mxCell id="ECmXwgW8DTYXgq-eAfSy-42" parent="CqJAkX1c5FdrGLS3fVsE-406" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Havva Taşçı" vertex="1">
           <mxGeometry height="30" width="160" y="240" as="geometry" />
         </mxCell>
+        <mxCell id="ECmXwgW8DTYXgq-eAfSy-40" parent="CqJAkX1c5FdrGLS3fVsE-406" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Semet Ateş" vertex="1">
+          <mxGeometry height="30" width="160" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="CqJAkX1c5FdrGLS3fVsE-414" parent="CqJAkX1c5FdrGLS3fVsE-406" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Nafiye İmren" vertex="1">
+          <mxGeometry height="30" width="160" y="300" as="geometry" />
+        </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-415" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="mavim@mothouse.com" vertex="1">
-          <mxGeometry height="25" width="160" x="800" y="2870" as="geometry" />
+          <mxGeometry height="25" width="160" x="768.8199999999999" y="3400" as="geometry" />
         </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-416" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Merch" vertex="1">
-          <mxGeometry height="300" width="160" x="40" y="2880" as="geometry" />
+          <mxGeometry height="360" width="160" x="77.5" y="3000" as="geometry" />
         </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-417" parent="CqJAkX1c5FdrGLS3fVsE-416" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="infoteam@mothouse.com" vertex="1">
           <mxGeometry height="30" width="160" y="30" as="geometry" />
@@ -769,14 +805,20 @@
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-420" parent="CqJAkX1c5FdrGLS3fVsE-416" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Tuna Gürsoy" vertex="1">
           <mxGeometry height="30" width="160" y="240" as="geometry" />
         </mxCell>
-        <mxCell id="CqJAkX1c5FdrGLS3fVsE-421" parent="CqJAkX1c5FdrGLS3fVsE-416" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Nafiye İmren" vertex="1">
+        <mxCell id="ECmXwgW8DTYXgq-eAfSy-32" parent="CqJAkX1c5FdrGLS3fVsE-416" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Zerrin Can" vertex="1">
           <mxGeometry height="30" width="160" y="270" as="geometry" />
         </mxCell>
+        <mxCell id="ECmXwgW8DTYXgq-eAfSy-33" parent="CqJAkX1c5FdrGLS3fVsE-416" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Rana Erdoğan" vertex="1">
+          <mxGeometry height="30" width="160" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="CqJAkX1c5FdrGLS3fVsE-421" parent="CqJAkX1c5FdrGLS3fVsE-416" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Nafiye İmren" vertex="1">
+          <mxGeometry height="30" width="160" y="330" as="geometry" />
+        </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-422" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="merch@mothouse.com" vertex="1">
-          <mxGeometry height="25" width="160" x="37.5" y="3180" as="geometry" />
+          <mxGeometry height="25" width="160" x="77.5" y="3360" as="geometry" />
         </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-427" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Mot Bilişim" vertex="1">
-          <mxGeometry height="150" width="140" x="480" y="2920" as="geometry" />
+          <mxGeometry height="150" width="140" x="402.5" y="3480" as="geometry" />
         </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-431" parent="CqJAkX1c5FdrGLS3fVsE-427" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Cem Benezra" vertex="1">
           <mxGeometry height="30" width="140" y="30" as="geometry" />
@@ -791,10 +833,10 @@
           <mxGeometry height="30" width="140" y="120" as="geometry" />
         </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-435" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="motbilisim@mothouse.com" vertex="1">
-          <mxGeometry height="30" width="145" x="480" y="3070" as="geometry" />
+          <mxGeometry height="30" width="142.5" x="400" y="3630" as="geometry" />
         </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-436" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Mot Tasarım" vertex="1">
-          <mxGeometry height="90" width="140" x="800" y="2920" as="geometry" />
+          <mxGeometry height="90" width="140" x="768.82" y="3480" as="geometry" />
         </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-440" parent="CqJAkX1c5FdrGLS3fVsE-436" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Cem Benezra" vertex="1">
           <mxGeometry height="30" width="140" y="30" as="geometry" />
@@ -803,10 +845,10 @@
           <mxGeometry height="30" width="140" y="60" as="geometry" />
         </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-442" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="tasarim@mothouse.com" vertex="1">
-          <mxGeometry height="20" width="140" x="800" y="3010" as="geometry" />
+          <mxGeometry height="20" width="140" x="768.82" y="3570" as="geometry" />
         </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-443" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Muhasebe" vertex="1">
-          <mxGeometry height="120" width="140" x="480" y="3130" as="geometry" />
+          <mxGeometry height="120" width="140" x="80" y="3800" as="geometry" />
         </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-448" parent="CqJAkX1c5FdrGLS3fVsE-443" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Selda Ateş" vertex="1">
           <mxGeometry height="30" width="140" y="30" as="geometry" />
@@ -818,10 +860,10 @@
           <mxGeometry height="30" width="140" y="90" as="geometry" />
         </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-450" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="muhasebe@mothouse.com" vertex="1">
-          <mxGeometry height="30" width="142.5" x="477.5" y="3250" as="geometry" />
+          <mxGeometry height="30" width="142.5" x="77.5" y="3920" as="geometry" />
         </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-451" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Planlama" vertex="1">
-          <mxGeometry height="180" width="170" x="800" y="3070" as="geometry" />
+          <mxGeometry height="210" width="170" x="758.82" y="3800" as="geometry" />
         </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-452" parent="CqJAkX1c5FdrGLS3fVsE-451" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Necip Arslan" vertex="1">
           <mxGeometry height="30" width="170" y="30" as="geometry" />
@@ -835,14 +877,17 @@
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-453" parent="CqJAkX1c5FdrGLS3fVsE-451" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Soner Başkaya" vertex="1">
           <mxGeometry height="30" width="170" y="120" as="geometry" />
         </mxCell>
-        <mxCell id="CqJAkX1c5FdrGLS3fVsE-454" parent="CqJAkX1c5FdrGLS3fVsE-451" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Seher Çobanoğlu" vertex="1">
+        <mxCell id="ECmXwgW8DTYXgq-eAfSy-45" parent="CqJAkX1c5FdrGLS3fVsE-451" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Kumaş Depo" vertex="1">
           <mxGeometry height="30" width="170" y="150" as="geometry" />
         </mxCell>
+        <mxCell id="CqJAkX1c5FdrGLS3fVsE-454" parent="CqJAkX1c5FdrGLS3fVsE-451" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Seher Çobanoğlu" vertex="1">
+          <mxGeometry height="30" width="170" y="180" as="geometry" />
+        </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-457" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="planlama@mothouse.com" vertex="1">
-          <mxGeometry height="30" width="170" x="800" y="3250" as="geometry" />
+          <mxGeometry height="30" width="170" x="758.82" y="4010" as="geometry" />
         </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-458" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Purchase Order" vertex="1">
-          <mxGeometry height="120" width="140" x="35" y="3360" as="geometry" />
+          <mxGeometry height="150" width="140" x="75" y="3480" as="geometry" />
         </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-459" parent="CqJAkX1c5FdrGLS3fVsE-458" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Cem Benenza" vertex="1">
           <mxGeometry height="30" width="140" y="30" as="geometry" />
@@ -850,11 +895,14 @@
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-460" parent="CqJAkX1c5FdrGLS3fVsE-458" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Semet Ateş" vertex="1">
           <mxGeometry height="30" width="140" y="60" as="geometry" />
         </mxCell>
-        <mxCell id="CqJAkX1c5FdrGLS3fVsE-461" parent="CqJAkX1c5FdrGLS3fVsE-458" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Umut.Demiray" vertex="1">
+        <mxCell id="ECmXwgW8DTYXgq-eAfSy-37" parent="CqJAkX1c5FdrGLS3fVsE-458" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Seher Çorbacıoğlu" vertex="1">
           <mxGeometry height="30" width="140" y="90" as="geometry" />
         </mxCell>
+        <mxCell id="CqJAkX1c5FdrGLS3fVsE-461" parent="CqJAkX1c5FdrGLS3fVsE-458" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Umut.Demiray" vertex="1">
+          <mxGeometry height="30" width="140" y="120" as="geometry" />
+        </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-462" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Rapor Finans" vertex="1">
-          <mxGeometry height="120" width="160" x="480" y="3360" as="geometry" />
+          <mxGeometry height="120" width="160" x="397.5" y="3800" as="geometry" />
         </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-463" parent="CqJAkX1c5FdrGLS3fVsE-462" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Cem Benezra" vertex="1">
           <mxGeometry height="30" width="160" y="30" as="geometry" />
@@ -866,19 +914,22 @@
           <mxGeometry height="30" width="160" y="90" as="geometry" />
         </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-466" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Sustainability" vertex="1">
-          <mxGeometry height="120" width="140" x="800" y="3360" as="geometry" />
+          <mxGeometry height="150" width="140" x="720" y="4160" as="geometry" />
         </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-467" parent="CqJAkX1c5FdrGLS3fVsE-466" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Cem Benezra" vertex="1">
           <mxGeometry height="30" width="140" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="CqJAkX1c5FdrGLS3fVsE-468" parent="CqJAkX1c5FdrGLS3fVsE-466" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Esra Dinler" vertex="1">
+        <mxCell id="ECmXwgW8DTYXgq-eAfSy-46" parent="CqJAkX1c5FdrGLS3fVsE-466" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Göktuğ Göktürk" vertex="1">
           <mxGeometry height="30" width="140" y="60" as="geometry" />
         </mxCell>
-        <mxCell id="CqJAkX1c5FdrGLS3fVsE-469" parent="CqJAkX1c5FdrGLS3fVsE-466" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="İlayda Karakaş" vertex="1">
+        <mxCell id="CqJAkX1c5FdrGLS3fVsE-468" parent="CqJAkX1c5FdrGLS3fVsE-466" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Esra Dinler" vertex="1">
           <mxGeometry height="30" width="140" y="90" as="geometry" />
         </mxCell>
+        <mxCell id="CqJAkX1c5FdrGLS3fVsE-469" parent="CqJAkX1c5FdrGLS3fVsE-466" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="İlayda Karakaş" vertex="1">
+          <mxGeometry height="30" width="140" y="120" as="geometry" />
+        </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-470" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Termin Tablosu" vertex="1">
-          <mxGeometry height="360" width="162.5" x="477.5" y="3540" as="geometry" />
+          <mxGeometry height="510" width="162.5" x="235" y="4160" as="geometry" />
         </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-471" parent="CqJAkX1c5FdrGLS3fVsE-470" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="infoteam@mothouse.com" vertex="1">
           <mxGeometry height="30" width="162.5" y="30" as="geometry" />
@@ -892,29 +943,55 @@
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-474" parent="CqJAkX1c5FdrGLS3fVsE-470" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Özlem Ergin" vertex="1">
           <mxGeometry height="30" width="162.5" y="120" as="geometry" />
         </mxCell>
-        <mxCell id="CqJAkX1c5FdrGLS3fVsE-475" parent="CqJAkX1c5FdrGLS3fVsE-470" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Seher Çorbacıoğlu" vertex="1">
+        <mxCell id="ECmXwgW8DTYXgq-eAfSy-48" parent="CqJAkX1c5FdrGLS3fVsE-470" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Eda çakmak" vertex="1">
           <mxGeometry height="30" width="162.5" y="150" as="geometry" />
         </mxCell>
-        <mxCell id="CqJAkX1c5FdrGLS3fVsE-476" parent="CqJAkX1c5FdrGLS3fVsE-470" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Merve Akün" vertex="1">
+        <mxCell id="CqJAkX1c5FdrGLS3fVsE-475" parent="CqJAkX1c5FdrGLS3fVsE-470" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Seher Çorbacıoğlu" vertex="1">
           <mxGeometry height="30" width="162.5" y="180" as="geometry" />
         </mxCell>
-        <mxCell id="CqJAkX1c5FdrGLS3fVsE-477" parent="CqJAkX1c5FdrGLS3fVsE-470" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Seda Düz" vertex="1">
+        <mxCell id="ECmXwgW8DTYXgq-eAfSy-51" parent="CqJAkX1c5FdrGLS3fVsE-470" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Mustafa Meral" vertex="1">
           <mxGeometry height="30" width="162.5" y="210" as="geometry" />
         </mxCell>
-        <mxCell id="CqJAkX1c5FdrGLS3fVsE-481" parent="CqJAkX1c5FdrGLS3fVsE-470" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="muhasebe@mothouse.com" vertex="1">
+        <mxCell id="CqJAkX1c5FdrGLS3fVsE-476" parent="CqJAkX1c5FdrGLS3fVsE-470" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Merve Akün" vertex="1">
           <mxGeometry height="30" width="162.5" y="240" as="geometry" />
         </mxCell>
-        <mxCell id="CqJAkX1c5FdrGLS3fVsE-482" parent="CqJAkX1c5FdrGLS3fVsE-470" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Seher Çobanoğlu" vertex="1">
+        <mxCell id="ECmXwgW8DTYXgq-eAfSy-52" parent="CqJAkX1c5FdrGLS3fVsE-470" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="havva taşçı" vertex="1">
           <mxGeometry height="30" width="162.5" y="270" as="geometry" />
         </mxCell>
-        <mxCell id="CqJAkX1c5FdrGLS3fVsE-478" parent="CqJAkX1c5FdrGLS3fVsE-470" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Tuna Gürsoy" vertex="1">
+        <mxCell id="ECmXwgW8DTYXgq-eAfSy-53" parent="CqJAkX1c5FdrGLS3fVsE-470" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Sevkiyat" vertex="1">
           <mxGeometry height="30" width="162.5" y="300" as="geometry" />
         </mxCell>
-        <mxCell id="CqJAkX1c5FdrGLS3fVsE-479" parent="CqJAkX1c5FdrGLS3fVsE-470" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Nafiye İmren" vertex="1">
+        <mxCell id="CqJAkX1c5FdrGLS3fVsE-477" parent="CqJAkX1c5FdrGLS3fVsE-470" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Seda Düz" vertex="1">
           <mxGeometry height="30" width="162.5" y="330" as="geometry" />
         </mxCell>
+        <mxCell id="ECmXwgW8DTYXgq-eAfSy-50" parent="CqJAkX1c5FdrGLS3fVsE-470" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Emin Bozbıyık" vertex="1">
+          <mxGeometry height="30" width="162.5" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="CqJAkX1c5FdrGLS3fVsE-481" parent="CqJAkX1c5FdrGLS3fVsE-470" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="muhasebe@mothouse.com" vertex="1">
+          <mxGeometry height="30" width="162.5" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="CqJAkX1c5FdrGLS3fVsE-482" parent="CqJAkX1c5FdrGLS3fVsE-470" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Seher Çobanoğlu" vertex="1">
+          <mxGeometry height="30" width="162.5" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="CqJAkX1c5FdrGLS3fVsE-478" parent="CqJAkX1c5FdrGLS3fVsE-470" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Tuna Gürsoy" vertex="1">
+          <mxGeometry height="30" width="162.5" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="CqJAkX1c5FdrGLS3fVsE-479" parent="CqJAkX1c5FdrGLS3fVsE-470" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Nafiye İmren" vertex="1">
+          <mxGeometry height="30" width="162.5" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="ECmXwgW8DTYXgq-eAfSy-47" edge="1" parent="1" source="CqJAkX1c5FdrGLS3fVsE-480" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="804.7142857142858" y="4330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-480" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="sustainability@mothouse.com" vertex="1">
-          <mxGeometry height="30" width="170" x="800" y="3480" as="geometry" />
+          <mxGeometry height="30" width="140" x="720" y="4310" as="geometry" />
+        </mxCell>
+        <mxCell id="ECmXwgW8DTYXgq-eAfSy-39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="po@mothouse.com" vertex="1">
+          <mxGeometry height="20" width="140" x="75" y="3630" as="geometry" />
+        </mxCell>
+        <mxCell id="ECmXwgW8DTYXgq-eAfSy-44" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="rapor02@mothouse.com" vertex="1">
+          <mxGeometry height="25" width="160" x="397.5" y="3920" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
