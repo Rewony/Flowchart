@@ -707,7 +707,7 @@
           <mxGeometry height="25" width="160" x="77.5" y="2830" as="geometry" />
         </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-396" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Mavi&amp;nbsp; Test" vertex="1">
-          <mxGeometry height="330" width="160" x="400" y="3000" as="geometry" />
+          <mxGeometry height="330" width="160" x="392.5" y="2940" as="geometry" />
         </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-397" parent="CqJAkX1c5FdrGLS3fVsE-396" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="infoteam@mothouse.com" vertex="1">
           <mxGeometry height="30" width="160" y="30" as="geometry" />
@@ -740,10 +740,10 @@
           <mxGeometry height="30" width="160" y="300" as="geometry" />
         </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-405" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="mavitest@mothouse.com" vertex="1">
-          <mxGeometry height="25" width="160" x="400" y="3330" as="geometry" />
+          <mxGeometry height="25" width="160" x="392.5" y="3270" as="geometry" />
         </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-406" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Mavim" vertex="1">
-          <mxGeometry height="330" width="160" x="768.8199999999999" y="3070" as="geometry" />
+          <mxGeometry height="330" width="160" x="758.8199999999999" y="2940" as="geometry" />
         </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-407" parent="CqJAkX1c5FdrGLS3fVsE-406" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="infoteam@mothouse.com" vertex="1">
           <mxGeometry height="30" width="160" y="30" as="geometry" />
@@ -776,10 +776,10 @@
           <mxGeometry height="30" width="160" y="300" as="geometry" />
         </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-415" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="mavim@mothouse.com" vertex="1">
-          <mxGeometry height="25" width="160" x="768.8199999999999" y="3400" as="geometry" />
+          <mxGeometry height="25" width="160" x="758.8199999999999" y="3270" as="geometry" />
         </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-416" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Merch" vertex="1">
-          <mxGeometry height="360" width="160" x="77.5" y="3000" as="geometry" />
+          <mxGeometry height="360" width="160" x="75" y="2920" as="geometry" />
         </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-417" parent="CqJAkX1c5FdrGLS3fVsE-416" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="infoteam@mothouse.com" vertex="1">
           <mxGeometry height="30" width="160" y="30" as="geometry" />
@@ -815,7 +815,7 @@
           <mxGeometry height="30" width="160" y="330" as="geometry" />
         </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-422" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="merch@mothouse.com" vertex="1">
-          <mxGeometry height="25" width="160" x="77.5" y="3360" as="geometry" />
+          <mxGeometry height="25" width="160" x="75" y="3280" as="geometry" />
         </mxCell>
         <mxCell id="CqJAkX1c5FdrGLS3fVsE-427" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Mot Bilişim" vertex="1">
           <mxGeometry height="150" width="140" x="402.5" y="3480" as="geometry" />
